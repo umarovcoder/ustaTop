@@ -1,0 +1,14 @@
+.main_content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main_contnet_title{
+    display: flex;
+    flex-direction: column;
+}
+
+.main_contnet_title_h1{
+     
+}
